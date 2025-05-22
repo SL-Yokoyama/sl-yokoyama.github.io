@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ホーム
+title: 横山 将汰 (Shota L. Yokoyama)
 ---
 
 # Contacts
@@ -38,28 +38,33 @@ title: ホーム
 # Publication
 ## Reviewed journals
 1. Yokoyama S. L. & Ohira Y. (2023),
-"Resistive Heating Induced by Streaming Cosmic Rays Around a Galaxy in the Early Universe", MNRAS, 523, 3, 3671,
+"**Resistive Heating Induced by Streaming Cosmic Rays Around a Galaxy in the Early Universe**", MNRAS, 523, 3, 3671,
 doi: [10.1093/mnras/stad1596](https://doi.org/10.1093/mnras/stad1596)
 (arXiv: [2302.07028](https://arxiv.org/abs/2302.07028))
 2. Yokoyama S. L. and Ohira Y. (2022),
-"Biermann Battery Powered by Resistive Heating Induced by Cosmic Ray Streaming", MNRAS, 515, 4, 5467,
+"**Biermann Battery Powered by Resistive Heating Induced by Cosmic Ray Streaming**", MNRAS, 515, 4, 5467,
 doi: [10.1093/mnras/stac2146](https://doi.org/10.1093/mnras/stac2146)
 (arXiv: [2204.05787](https://arxiv.org/abs/2204.05787))
 3. Yokoyama S. L. and Ohira Y. (2020),
-"Particle Acceleration by a Shock Wave Propagating to an Inhomogeneous Medium", The Astrophysical Journal, 897, 1, 50,
+"**Particle Acceleration by a Shock Wave Propagating to an Inhomogeneous Medium**", The Astrophysical Journal, 897, 1, 50,
 doi: [10.3847/1538-4357/ab93c3](https://doi.org/10.3847/1538-4357/ab93c3)
 (arXiv: [2004.05765](https://arxiv.org/abs/2004.05765))
 
 ## Proceedings
 1. Yokoyama S. L. and Ohira Y. (2023),
-"Intergalactic Heating Induced by Streaming Cosmic Rays in the Early Universe", 38th International Cosmic Ray Conference (ICRC 2023), 156
+"**Intergalactic Heating Induced by Streaming Cosmic Rays in the Early Universe**", 38th International Cosmic Ray Conference (ICRC 2023), 156
 doi: [doi](https://pos.sissa.it/444/156)
 2. Yokoyama S. L. and Ohira Y. (2021),
-"Particle acceleration by sound waves generated in the shock downstream region", 37th International Cosmic Ray Conference (ICRC 2021), 172,
+"**Particle acceleration by sound waves generated in the shock downstream region**", 37th International Cosmic Ray Conference (ICRC 2021), 172,
 doi: [10.22323/1.395.0172](https://doi.org/10.22323/1.395.0172)
 3. Yokoyama S. and Ohira Y. (2019),
-"Particle acceleration by shock waves propagating in a non-uniform medium", 36th International Cosmic Ray Conference (ICRC 2019), 162,
+"**Particle acceleration by shock waves propagating in a non-uniform medium**", 36th International Cosmic Ray Conference (ICRC 2019), 162,
 doi:[10.22323/1.358.0162](https://doi.org/10.22323/1.358.0162)
+
+## Softwares
+1. Matsumoto, Y., Amano, T., Iwamoto, M., Jikei, T., Zenitani, S., & <u>Yokoyama, S.</u> (2025). **Wuming PIC (v0.72)**. Zenodo. \
+Two- and three-dimentional, special relativistic, electromagnetic particle-in-cell simulation code for general purposes in space and astrophysical plasmas, 
+doi: [10.5281/zenodo.15369598](https://doi.org/10.5281/zenodo.15369598)
 
 # Presentation
 ## International
