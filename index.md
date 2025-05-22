@@ -3,10 +3,6 @@ layout: default
 title: ホーム
 ---
 
-<head>
-  <meta name="google-site-verification" content="zxgThWS1u5Lkf91zIFboZVeBFUpxg1Bg7V8MKYMFbSo" />
-</head>
-
 # Contacts
 〒263-8522 千葉市稲毛区弥生町1-33 \
 千葉大学理学部物理学科宇宙物理学研究室 ([HP](https://www.astro.phys.s.chiba-u.ac.jp/index.html)) \
