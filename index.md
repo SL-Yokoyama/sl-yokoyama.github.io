@@ -6,7 +6,7 @@ title: 横山 将汰 (Shota L. Yokoyama)
 # Contacts
 〒263-8522 千葉市稲毛区弥生町1-33 \
 千葉大学理学部物理学科宇宙物理学研究室 ([HP](https://www.astro.phys.s.chiba-u.ac.jp/index.html)) \
-理学部2号館305号室 \
+<!--理学部2号館305号室 \-->
 [E-mail](mailto:shota.yokoyama@chiba-u.jp) \
 [researchmap](https://researchmap.jp/slyokoyama) \
 [ORCiD](https://orcid.org/0000-0002-3743-414X)
