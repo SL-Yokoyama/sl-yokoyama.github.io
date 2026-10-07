@@ -4,16 +4,15 @@ title: 横山 将汰 (Shota L. Yokoyama)
 ---
 
 # Contacts
-〒464-8602 名古屋市千種区不老町 \
-名古屋大学大学院 理学研究科 Ta研 ([HP](https://www.astro-th.phys.nagoya-u.ac.jp/talab/index_j.html)) \
+〒263-8522 千葉市稲毛区弥生町1-33 \
+千葉大学理学部物理学科宇宙物理学研究室 ([HP](https://www.astro.phys.s.chiba-u.ac.jp/index.html)) \
 <!--理学部2号館305号室 \-->
-[E-mail](mailto:yokoyama.shota.e1@f.mail.nagoya-u.ac.jp) \
+[E-mail](mailto:shota.yokoyama@chiba-u.jp) \
 [researchmap](https://researchmap.jp/slyokoyama) \
 [ORCiD](https://orcid.org/0000-0002-3743-414X)
 
 # CV
-2026年10月 - 現在　名古屋大学大学院 理学研究科 Ta研　研究員 \
-2024年9月 - 2026年9月　千葉大学ハドロン宇宙国際研究センター　特任研究員 \
+2024年9月 - 現在　千葉大学ハドロン宇宙国際研究センター　特任研究員 \
 2021年4月 - 2024年3月　日本学術振興会　特別研究員DC1 \
 \
 2025年1月31日　東京大学大学院 理学系研究科 地球惑星科学専攻　博士課程　修了　博士（理学）\
