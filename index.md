@@ -38,7 +38,7 @@ title: 横山 将汰 (Shota L. Yokoyama)
 
 # Publications
 ## Reviewed journals
-1. Yokoyama S. L. & Ohira Y. (2023),
+1. Yokoyama S. L. and Ohira Y. (2023),
 "**Resistive Heating Induced by Streaming Cosmic Rays Around a Galaxy in the Early Universe**", MNRAS, 523, 3, 3671,
 doi: [10.1093/mnras/stad1596](https://doi.org/10.1093/mnras/stad1596)
 (arXiv: [2302.07028](https://arxiv.org/abs/2302.07028))
@@ -52,6 +52,9 @@ doi: [10.3847/1538-4357/ab93c3](https://doi.org/10.3847/1538-4357/ab93c3)
 (arXiv: [2004.05765](https://arxiv.org/abs/2004.05765))
 
 ## Proceedings
+1. Yokoyama S. L. and Ohira Y. (2025),
+"**Cosmic Ray Heating in the Early Universe: Joule Heating by Return Currents and its Impact on the Thermal Evolution of the Intergalactic Medium at Redshift around 10**", 39th International Cosmic Ray Conference (ICRC 2025), 157
+doi: [10.22323/1.501.0157](https://doi.org/10.22323/1.501.0157)
 1. Yokoyama S. L. and Ohira Y. (2023),
 "**Intergalactic Heating Induced by Streaming Cosmic Rays in the Early Universe**", 38th International Cosmic Ray Conference (ICRC 2023), 156
 doi: [10.22323/1.444.0156](https://doi.org/10.22323/1.444.0156)
@@ -70,11 +73,12 @@ doi: [10.5281/zenodo.15369598](https://doi.org/10.5281/zenodo.15369598)
 # Presentations
 ## International
 ### <u>Invited</u>
+1. Yokoyama S. L. and Matsumoto Y., "**Dependence of the electron-to-ion temperature ratio on shock velocity of nonrelativistic collisionless shocks**", AAPPS-DPP2026 (Busan, South Korea, 2026.10, accepted)
 1. Yokoyama S. L. and Ohira Y., "**Heating of the intergalactic medium by cosmic rays in the early universe**", AAPPS-DPP2024 (Malacca, Malaysia, 2024.11)
 
 ### <u>Oral</u>
-1. Yokoyama S. L. and Ohira Y., "**Cosmic-ray Driven Resistive Heating of the Intergalactic Medium in the Early Universe and Its Implications for 21-cm Line Observations**", AAPPS-DPP2025 (Fukuoka, Japan, 2025.9, accepted)
-1. Yokoyama S. L. and Ohira Y., "**Cosmic Ray Heating in the Early Universe: Joule Heating by Return Currents and its Impact on the Thermal Evolution of the Intergalactic Medium at Redshift around 10**", 39th International Cosmic Ray Conference (ICRC 2025) (Geneva, Switzerland, 2025.7, accepted)
+1. Yokoyama S. L. and Ohira Y., "**Cosmic-ray Driven Resistive Heating of the Intergalactic Medium in the Early Universe and Its Implications for 21-cm Line Observations**", AAPPS-DPP2025 (Fukuoka, Japan, 2025.9)
+1. Yokoyama S. L. and Ohira Y., "**Cosmic Ray Heating in the Early Universe: Joule Heating by Return Currents and its Impact on the Thermal Evolution of the Intergalactic Medium at Redshift around 10**", 39th International Cosmic Ray Conference (ICRC 2025) (Geneva, Switzerland, 2025.7)
 1. Yokoyama S. L. and Ohira Y., "**Heating of the Intergalactic Medium Induced by Streaming Cosmic Rays**", AAPPS-DPP2023 (Nagoya, Japan, 2023.11)
 2. Yokoyama S. L. and Ohira Y., "**Intergalactic Heating Induced by Streaming Cosmic Rays in the Early Universe**", 38th International Cosmic Ray Conference (ICRC 2023) (Nagoya, Japan, 2023.7-8)
 3. Yokoyama S. L. and Ohira Y., "**Magnetogenesis Induced by Streaming Cosmic Rays in the Early Universe**", AAPPS-DPP2022 (online, 2022.10)
@@ -90,6 +94,9 @@ doi: [10.5281/zenodo.15369598](https://doi.org/10.5281/zenodo.15369598)
 
 ## Domestic
 ### <u>Oral</u>
+1. 横山 将汰, 松本 洋介, 「**PICシミュレーションで明かす非相対論的衝撃波における電子・イオン温度比の衝撃波速度依存性**」, 高エネルギー宇宙物理学研究会2026（東京, 2026.10）
+1. 横山 将汰, 松本 洋介, 「**非相対論的無衝突衝撃波における電子・イオン温度比の衝撃波速度依存性**」, 日本天文学会2026年秋季年会（岡山, 2026.9）
+1. 横山 将汰, 松本 洋介, 「**非相対論的衝撃波における電子・イオン温度比の衝撃波速度依存性**」, STEシミュレーション研究会（東京, 2026.3）
 1. 横山 将汰, 大平 豊, 「**宇宙線による初期宇宙の銀河間空間の加熱と21cm線による観測可能性**」, 日本天文学会2025年春季年会（茨城, 2025.3）
 1. 横山 将汰, 大平 豊, 「**宇宙線が引き起こす初期宇宙の銀河間空間の加熱**」, 第36回理論懇シンポジウム（青森, 2023.12）
 1. 横山 将汰, 大平 豊, 「**初代宇宙線が引き起こす銀河間空間の抵抗性加熱と磁場生成**」, 高エネルギー宇宙物理学研究会2023（東京, 2023.11）
@@ -105,6 +112,9 @@ doi: [10.5281/zenodo.15369598](https://doi.org/10.5281/zenodo.15369598)
 1. 横山 将汰, 大平 豊, 「**非一様媒質中を伝播する衝撃波による粒子加速**」, 日本天文学会2020年春季年会（茨城, 2020.3）
 
 ### <u>Poster</u>
+1. 横山 将汰, 松本 洋介, 「**宇宙線加熱による初期宇宙銀河間空間の温度・電離度進化のパラメータ依存性と21cm線信号への影響**」, 第38回理論懇シンポジウム（茨城, 2025.12）
+1. 横山 将汰, 松本 洋介, 「**PICシミュレーションによる非相対論的衝撃波における微視的不安定性の競合過程の解明**」, 高エネルギー宇宙物理学研究会2025（大阪, 2025.12）
+1. 横山 将汰, 松本 洋介, 「**非相対論的衝撃波における微視的不安定性の競合過程**」, 日本天文学会2025年秋季年会（山口, 2025.9）
 1. 横山 将汰, 大平 豊, 「**宇宙線による初期宇宙の銀河間空間の加熱と21cm線への影響**」, 第37回理論懇シンポジウム（東京, 2024.12）
 1. 横山 将汰, 大平 豊, 「**宇宙線による銀河間空間の加熱と磁場生成**」, 第35回理論懇シンポジウム（福島, 2022.12）
 1. 横山 将汰, 大平 豊, 「**宇宙線による初期宇宙の磁場生成**」, 第34回理論懇シンポジウム（オンライン, 2021.12）
